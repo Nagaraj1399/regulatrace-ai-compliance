@@ -1,0 +1,8 @@
+{
+  "name": "RegulaTrace AI — Regulatory Obligation-to-Control Mapping Workbench",
+  "description": "Review regulatory obligations against internal controls, assess coverage, and record traceable compliance decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
